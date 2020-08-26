@@ -219,7 +219,6 @@
         <button @click="resetGame">Reseto lojën</button>
       </div>
   </div>
-  <!-- New comment -->
 </template>
 
 <script>
